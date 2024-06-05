@@ -6,7 +6,7 @@ import cleaner from "import React from "react";
 import { Container, Row, Col } from "react-bootstrap";
 import ProjectCard from "./ProjectCards";
 import Particle from "../Particle";
-import cleaner from "/Users/abbas/Documents/PROJECTS/Portfolio/src/Assets/Projects/Cleaner.png";
+import cleaner from '../assets/images/Cleaner.png';
 
 function Projects() {
   return (
