@@ -2,7 +2,7 @@ import React from "react";
 import { Container, Row, Col } from "react-bootstrap";
 import ProjectCard from "./ProjectCards";
 import Particle from "../Particle";
-import cleaner from "src/components/Projects/Cleaner.png";
+import cleaner from ".../Cleaner.png";
 
 function Projects() {
   return (
