@@ -3,7 +3,7 @@
   <a href="https://Abbas.vercel.app/" target="_blank">Mohammad Abbas Tech</a>
 </h2>
 <div align="center">
-  <img alt="Demo" src="/Users/abbas/Documents/PROJECTS/Portfolio/src/Assets/readme.png" />
+  <img alt="Demo" src="readme-img.png" />
 </div> 
 <div align="center">
   Note: The template is copied from soumyajit
