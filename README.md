@@ -6,7 +6,7 @@
   <img alt="Demo" src="/Users/abbas/Documents/PROJECTS/Portfolio/src/Assets/readme.png" />
 </div> 
 <div align="center">
-  Note: The template is coppied from soumyajit
+  Note: The template is copied from soumyajit
 </div> 
 
 <br/>
