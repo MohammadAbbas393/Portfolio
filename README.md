@@ -36,7 +36,7 @@ You can fork this repo to modify and make changes of your own. Please give me pr
 
 ## Built With
 
-My personal portfolio <a href="https://portfolio-git-main-mohammadabbas393s-projects.vercel.app/" target="_blank">Abbas.tech</a> which features some of my github projects as well as my resume and technical skills.<br/>
+My personal portfolio <a href="https://portfolio-git-main-mohammadabbas393s-projects.vercel.app/" target="_blank">Abbas.tech</a> which contains some of my projects as well as my resume\.<br/>
 
 This project was built using these technologies.
 
@@ -57,7 +57,7 @@ This project was built using these technologies.
 
 ## Getting Started
 
-Clone down this repository. You will need `node.js` and `git` installed globally on your machine.
+Clone down this repository. You will need `node.js` and `git` installed on your machine.
 
 ## 🛠 Installation and Setup Instructions
 
