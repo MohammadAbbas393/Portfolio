@@ -1,8 +1,7 @@
 import React from "react";
 import { Container, Row, Col } from "react-bootstrap";
 import ProjectCard from "./ProjectCards";
-import Particle from "../oldParticle"; // Rename or ensure this is correct
-// Comment out cleaner and related usage temporarily
+import Particle from "../Particle";
 // import cleaner from "./Cleaner.png";
 
 function Projects() {
