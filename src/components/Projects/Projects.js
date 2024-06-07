@@ -18,7 +18,7 @@ function Projects() {
         <Row style={{ justifyContent: "center", paddingBottom: "10px" }}>
           <Col md={4} className="project-card">
             <ProjectCard
-              imgPath={"cleaner"} // Replace cleaner with dummyPath or similar
+              imgPath={"dummypath"} // Replace cleaner with dummyPath or similar
               isBlog={false}
               title="Downloads Cleaner"
               description="Code that can organize your downloads folder instead of having them shuffled, they will go to multiple folders (Text,Audio,Pics,Programming, and Uncategorized). Under each folder you have subfolders like in text you have (PDF, WORD) in Programming you have (Pyhton,Java)."
