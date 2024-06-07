@@ -2,7 +2,7 @@ import React from "react";
 import { Container, Row, Col } from "react-bootstrap";
 import ProjectCard from "./ProjectCards";
 import Particle from "../Particle";
-// import cleaner from "./Cleaner.png";
+import cleaner from "src/components/Projects/Cleaner.png";
 
 function Projects() {
   return (
@@ -18,10 +18,10 @@ function Projects() {
         <Row style={{ justifyContent: "center", paddingBottom: "10px" }}>
           <Col md={4} className="project-card">
             <ProjectCard
-              imgPath={"dummyPath"} // Replace cleaner with dummyPath or similar
+              imgPath={"cleaner"} // Replace cleaner with dummyPath or similar
               isBlog={false}
               title="Downloads Cleaner"
-              description="Code that can organize your downloads folder..."
+              description="Code that can organize your downloads folder instead of having them shuffled, they will go to multiple folders (Text,Audio,Pics,Programming, and Uncategorized). Under each folder you have subfolders like in text you have (PDF, WORD) in Programming you have (Pyhton,Java)."
               ghLink="https://github.com/MohammadAbbas393/Downloads-folder-cleaner"
             />
           </Col>
