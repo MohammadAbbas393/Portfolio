@@ -6,7 +6,7 @@
   <img alt="Demo" src="readme-img.png" />
 </div> 
 <div align="center">
-  Note: The template is copied from soumyajit
+  Note: Cloned files from @soumyajit4419 but all the informations are mine
 </div> 
 
 <br/>
