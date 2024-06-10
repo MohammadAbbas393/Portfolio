@@ -17,17 +17,16 @@ function Projects() {
         <Row style={{ justifyContent: "center", paddingBottom: "10px" }}>
           <Col md={4} className="project-card">
             <ProjectCard
-              imgPath={require("./Cleaner.png")}
+              imgPath={require("../Assets/Projects/Cleaner.png")} // Assuming relative path adjustment
               isBlog={false}
               title="Downloads Cleaner"
               description="Code that can organize your downloads folder instead of having them shuffled, they will go to multiple folders (Text, Audio, Pics, Programming, and Uncategorized). Under each folder, you have subfolders like in text you have (PDF, WORD) in Programming you have (Python, Java)."
               ghLink="https://github.com/MohammadAbbas393/Downloads-folder-cleaner"
             />
           </Col>
-
           <Col md={4} className="project-card">
             <ProjectCard
-              imgPath={require("src/Assets/Projects/Electricbg")}
+              imgPath={require("../Assets/Projects/Electricbg.png")} /
               isBlog={false}
               title="Electric Background"
               description="This idea of the code was actually taken from CodePen but I developed the code by myself. The idea of doing that is I had a project to build an ITS website for Middlebury College especially the Digital Learning and Inquiry department so I needed some tech in the header."
