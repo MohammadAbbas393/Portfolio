@@ -23,6 +23,9 @@ function Projects() {
               description="Code that can organize your downloads folder instead of having them shuffled, they will go to multiple folders (Text, Audio, Pics, Programming, and Uncategorized). Under each folder, you have subfolders like in text you have (PDF, WORD) in Programming you have (Python, Java)."
               ghLink="https://github.com/MohammadAbbas393/Downloads-folder-cleaner"
             />
+          </Col>
+
+          <Col md={4} className="project-card">
             <ProjectCard
               imgPath={require("src/Assets/Projects/Electricbg")}
               isBlog={false}
