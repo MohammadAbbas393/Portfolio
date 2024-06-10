@@ -17,7 +17,7 @@ function Projects() {
         <Row style={{ justifyContent: "center", paddingBottom: "10px" }}>
           <Col md={4} className="project-card">
             <ProjectCard
-              imgPath={require("../Assets/Projects/Cleaner.png")}
+              imgPath={require("src/components/Projects/Cleaner.png")}
               isBlog={false}
               title="Downloads Cleaner"
               description="Code that can organize your downloads folder instead of having them shuffled, they will go to multiple folders (Text, Audio, Pics, Programming, and Uncategorized). Under each folder, you have subfolders like in text you have (PDF, WORD) in Programming you have (Python, Java)."
