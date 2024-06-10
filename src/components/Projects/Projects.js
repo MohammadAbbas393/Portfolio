@@ -29,6 +29,17 @@ function Projects() {
       </Container>
     </Container>
   );
+            <ProjectCard
+              imgPath={require("src/Assets/Projects/Electricbg")}
+              isBlog={false}
+              title="Electric Background"
+              description="this idea of the code was actually taken from codepen but I developed the code by my self the idea of doing that is I had a project to build an ITS website for Middlebury college especially the Digital Learning and Inquiry department so I needed some tech in the header"
+            />
+          </Col>
+        </Row>
+      </Container>
+    </Container>
+  );
 }
 
 export default Projects;
