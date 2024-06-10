@@ -3,7 +3,6 @@ import { Container, Row, Col } from "react-bootstrap";
 import ProjectCard from "./ProjectCards";
 import Particle from "../Particle";
 
-
 function Projects() {
   return (
     <Container fluid className="project-section">
@@ -21,19 +20,16 @@ function Projects() {
               imgPath={require("./Cleaner.png")}
               isBlog={false}
               title="Downloads Cleaner"
-              description="Code that can organize your downloads folder instead of having them shuffled, they will go to multiple folders (Text,Audio,Pics,Programming, and Uncategorized). Under each folder you have subfolders like in text you have (PDF, WORD) in Programming you have (Pyhton,Java)."
+              description="Code that can organize your downloads folder instead of having them shuffled, they will go to multiple folders (Text, Audio, Pics, Programming, and Uncategorized). Under each folder, you have subfolders like in text you have (PDF, WORD) in Programming you have (Python, Java)."
               ghLink="https://github.com/MohammadAbbas393/Downloads-folder-cleaner"
             />
-          </Col>
-        </Row>
-      </Container>
-    </Container>
-  );
             <ProjectCard
               imgPath={require("src/Assets/Projects/Electricbg")}
               isBlog={false}
               title="Electric Background"
-              description="this idea of the code was actually taken from codepen but I developed the code by my self the idea of doing that is I had a project to build an ITS website for Middlebury college especially the Digital Learning and Inquiry department so I needed some tech in the header"
+              description="This idea of the code was actually taken from CodePen but I developed the code by myself. The idea of doing that is I had a project to build an ITS website for Middlebury College especially the Digital Learning and Inquiry department so I needed some tech in the header."
+              ghLink="https://github.com/MohammadAbbas393/electricbg"
+              demoLink="http://127.0.0.1:3000/dist/index.html"
             />
           </Col>
         </Row>
