@@ -2,6 +2,7 @@ import React from "react";
 import { Container, Row, Col } from "react-bootstrap";
 import ProjectCard from "./ProjectCards";
 import Particle from "../Particle";
+import memorygameImage from '../../Assets/Projects/memorygame.png';
 
 function Projects() {
   return (
@@ -44,7 +45,7 @@ function Projects() {
           </Col>
           <Col md={4} className="project-card">
             <ProjectCard
-              imgPath={require("../../Assets/Projects/word game.png")}
+              imgPath={memorygameImage}
               isBlog={false}
               title="Memory Card"
               description="This idea of the code was actually taken from CodePen but I developed the code by myself. The idea of doing that is I had a project to build an ITS website for Middlebury College especially the Digital Learning and Inquiry department so I needed some tech in the header."
