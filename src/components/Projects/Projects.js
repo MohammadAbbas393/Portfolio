@@ -26,7 +26,7 @@ function Projects() {
           </Col>
           <Col md={4} className="project-card">
             <ProjectCard
-              imgPath={require("../../Assets/Projects/.png")}
+              imgPath={require("../../Assets/Projects/Ap.png")}
               isBlog={false}
               title="Appartments Scraper"
               description="This idea of the code was actually taken from CodePen but I developed the code by myself. The idea of doing that is I had a project to build an ITS website for Middlebury College especially the Digital Learning and Inquiry department so I needed some tech in the header."
