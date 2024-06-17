@@ -30,8 +30,7 @@ function Projects() {
               isBlog={false}
               title="Appartments Scraper"
               description="This idea of the code was actually taken from CodePen but I developed the code by myself. The idea of doing that is I had a project to build an ITS website for Middlebury College especially the Digital Learning and Inquiry department so I needed some tech in the header."
-              ghLink="https://github.com/MohammadAbbas393/electricbg"
-              demoLink="http://127.0.0.1:3000/dist/index.html"
+              ghLink="https://github.com/MohammadAbbas393/Apscraper"
             />
           </Col>
           <Col md={4} className="project-card">
@@ -41,27 +40,24 @@ function Projects() {
               title="Electric Background"
               description="This idea of the code was actually taken from CodePen but I developed the code by myself. The idea of doing that is I had a project to build an ITS website for Middlebury College especially the Digital Learning and Inquiry department so I needed some tech in the header."
               ghLink="https://github.com/MohammadAbbas393/electricbg"
-              demoLink="http://127.0.0.1:3000/dist/index.html"
             />
           </Col>
           <Col md={4} className="project-card">
             <ProjectCard
-              imgPath={require("../../Assets/Projects/.png")}
+              imgPath={require("../../Assets/Projects/memorygame.png")}
               isBlog={false}
               title="Memory Card"
               description="This idea of the code was actually taken from CodePen but I developed the code by myself. The idea of doing that is I had a project to build an ITS website for Middlebury College especially the Digital Learning and Inquiry department so I needed some tech in the header."
-              ghLink="https://github.com/MohammadAbbas393/electricbg"
-              demoLink="http://127.0.0.1:3000/dist/index.html"
+              ghLink="https://github.com/MohammadAbbas393/Memorycard"
             />
           </Col>
           <Col md={4} className="project-card">
             <ProjectCard
-              imgPath={require("../../Assets/Projects/.png")}
+              imgPath={require("../../Assets/Projects/Ap.png")}
               isBlog={false}
               title="Genes Finder"
               description="This idea of the code was actually taken from CodePen but I developed the code by myself. The idea of doing that is I had a project to build an ITS website for Middlebury College especially the Digital Learning and Inquiry department so I needed some tech in the header."
-              ghLink="https://github.com/MohammadAbbas393/electricbg"
-              demoLink="http://127.0.0.1:3000/dist/index.html"
+              ghLink="https://github.com/MohammadAbbas393/Genesfinder"
             />
           </Col>
           <Col md={4} className="project-card">
@@ -70,8 +66,7 @@ function Projects() {
               isBlog={false}
               title="Word Game"
               description="This idea of the code was actually taken from CodePen but I developed the code by myself. The idea of doing that is I had a project to build an ITS website for Middlebury College especially the Digital Learning and Inquiry department so I needed some tech in the header."
-              ghLink="https://github.com/MohammadAbbas393/electricbg"
-              demoLink="http://127.0.0.1:3000/dist/index.html"
+              ghLink="https://github.com/MohammadAbbas393/wordgame"
             />
           </Col>
           <Col md={4} className="project-card">
@@ -80,8 +75,7 @@ function Projects() {
               isBlog={false}
               title="Jarvis"
               description="This idea of the code was actually taken from CodePen but I developed the code by myself. The idea of doing that is I had a project to build an ITS website for Middlebury College especially the Digital Learning and Inquiry department so I needed some tech in the header."
-              ghLink="https://github.com/MohammadAbbas393/electricbg"
-              demoLink="http://127.0.0.1:3000/dist/index.html"
+              ghLink="https://github.com/MohammadAbbas393/Jarvis"
             />
           </Col>
         </Row>
