@@ -2,7 +2,7 @@ import React from "react";
 import { Container, Row, Col } from "react-bootstrap";
 import ProjectCard from "./ProjectCards";
 import Particle from "../Particle";
-import memorygameImage from '../../Assets/Projects/memorygame.png';
+import memorygameImage from '../../Assets/Projects/Mg.png';
 
 function Projects() {
   return (
