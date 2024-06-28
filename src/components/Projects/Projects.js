@@ -30,7 +30,7 @@ function Projects() {
               imgPath={require("../../Assets/Projects/Ap.png")}
               isBlog={false}
               title="Appartments Scraper"
-              description="This idea of the code was actually taken from CodePen but I developed the code by myself. The idea of doing that is I had a project to build an ITS website for Middlebury College especially the Digital Learning and Inquiry department so I needed some tech in the header."
+              description="The "Appartments Scraper" is a web scraping tool designed to automate the extraction of apartment listings from various real estate websites. This project was created to gather and organize apartment data, including details like price, location, and contact info. By using Python along with libraries like BeautifulSoup and Scrapy, the scraper navigates through web pages, extracts relevant information, and compiles it into a structured format such as a CSV file or database."
               ghLink="https://github.com/MohammadAbbas393/Apscraper"
             />
           </Col>
@@ -39,7 +39,7 @@ function Projects() {
               imgPath={require("../../Assets/Projects/Electricbg.png")}
               isBlog={false}
               title="Electric Background"
-              description="This idea of the code was actually taken from CodePen but I developed the code by myself. The idea of doing that is I had a project to build an ITS website for Middlebury College especially the Digital Learning and Inquiry department so I needed some tech in the header."
+              description="The 'Electric Background' project is a visually engaging animation that creates a dynamic electric or neural network-like effect in the background of a webpage. Inspired by a CodePen example, this project was developed to add a high-tech aesthetic to a webpage header. The animation is created using JavaScript and the HTML5 Canvas API, resulting in a captivating, interactive user experience."
               ghLink="https://github.com/MohammadAbbas393/electricbg"
             />
           </Col>
@@ -48,7 +48,7 @@ function Projects() {
               imgPath={memorygameImage}
               isBlog={false}
               title="Memory Card"
-              description="This idea of the code was actually taken from CodePen but I developed the code by myself. The idea of doing that is I had a project to build an ITS website for Middlebury College especially the Digital Learning and Inquiry department so I needed some tech in the header."
+              description="The 'Memory game' game is a classic concentration card game where players flip over pairs of cards to find matching pairs. This project was developed to enhance cognitive skills such as memory and concentration. The game features a grid of cards that are shuffled and laid face down, and the player must remember the position of each card to find all the matching pairs."
               ghLink="https://github.com/MohammadAbbas393/Memorycard"
             />
           </Col>
@@ -57,7 +57,7 @@ function Projects() {
               imgPath={require("../../Assets/Projects/Ap.png")}
               isBlog={false}
               title="Genes Finder"
-              description="This idea of the code was actually taken from CodePen but I developed the code by myself. The idea of doing that is I had a project to build an ITS website for Middlebury College especially the Digital Learning and Inquiry department so I needed some tech in the header."
+              description="The 'Genes Finder' is a bioinformatics tool designed to identify and analyze genes within a given DNA sequence. This project was developed to assist researchers in locating specific genes and understanding their functions. By using algorithms and data processing techniques, the Genes Finder can scan DNA sequences, identify gene patterns, and provide detailed information about each gene."
               ghLink="https://github.com/MohammadAbbas393/Genesfinder"
             />
           </Col>
@@ -66,7 +66,7 @@ function Projects() {
               imgPath={require("../../Assets/Projects/word game.png")}
               isBlog={false}
               title="Word Game"
-              description="This idea of the code was actually taken from CodePen but I developed the code by myself. The idea of doing that is I had a project to build an ITS website for Middlebury College especially the Digital Learning and Inquiry department so I needed some tech in the header."
+              description="The 'Word Game' is a fun and educational game where players guess letters to form a hidden word. This project was created to improve vocabulary and spelling skills. Players are given a word with blank spaces and must guess letters within a limited number of attempts. Incorrect guesses result in a reduction of remaining attempts, adding an element of challenge to the game."
               ghLink="https://github.com/MohammadAbbas393/wordgame"
             />
           </Col>
@@ -75,7 +75,7 @@ function Projects() {
               imgPath={require("../../Assets/Projects/Jarvis.png")}
               isBlog={false}
               title="Jarvis"
-              description="This idea of the code was actually taken from CodePen but I developed the code by myself. The idea of doing that is I had a project to build an ITS website for Middlebury College especially the Digital Learning and Inquiry department so I needed some tech in the header."
+              description="The 'Jarvis' project is an AI-powered virtual assistant designed to perform various tasks based on voice commands. Inspired by the AI assistant from Iron Man, this project was developed to integrate AI functionalities into everyday tasks. Jarvis can manage schedules, set reminders, search the web, and control smart home devices, making it a versatile and powerful tool for personal assistance."
               ghLink="https://github.com/MohammadAbbas393/Jarvis"
             />
           </Col>
