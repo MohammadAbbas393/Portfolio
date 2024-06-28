@@ -30,7 +30,7 @@ function Projects() {
               imgPath={require("../../Assets/Projects/Ap.png")}
               isBlog={false}
               title="Appartments Scraper"
-              description="The "Appartments Scraper" is a web scraping tool designed to automate the extraction of apartment listings from various real estate websites. This project was created to gather and organize apartment data, including details like price, location, and contact info. By using Python along with libraries like BeautifulSoup and Scrapy, the scraper navigates through web pages, extracts relevant information, and compiles it into a structured format such as a CSV file or database."
+              description="The 'Appartments Scraper' is a web scraping tool designed to automate the extraction of apartment listings from various real estate websites. This project was created to gather and organize apartment data, including details like price, location, and contact info. By using Python along with libraries like BeautifulSoup and Scrapy, the scraper navigates through web pages, extracts relevant information, and compiles it into a structured format such as a CSV file or database."
               ghLink="https://github.com/MohammadAbbas393/Apscraper"
             />
           </Col>
