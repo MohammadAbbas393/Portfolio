@@ -5,7 +5,7 @@ import Particle from './Particle';
 import { AiOutlineDownload } from "react-icons/ai";
 import { Document, Page, pdfjs } from "react-pdf";
 import "react-pdf/dist/esm/Page/AnnotationLayer.css";
-import pdf from '../Resume2024.pdf';  // Import PDF from relative path
+import pdf from './Resume2024.pdf';  // Import PDF from relative path
 
 pdfjs.GlobalWorkerOptions.workerSrc = `//cdnjs.cloudflare.com/ajax/libs/pdf.js/${pdfjs.version}/pdf.worker.min.js`;
 
