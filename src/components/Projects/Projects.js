@@ -36,15 +36,6 @@ function Projects() {
           </Col>
           <Col md={4} className="project-card">
             <ProjectCard
-              imgPath={require("../../Assets/Projects/Electricbg.png")}
-              isBlog={false}
-              title="Electric Background"
-              description="The 'Electric Background' project is a visually engaging animation that creates a dynamic electric or neural network-like effect in the background of a webpage. Inspired by a CodePen example, this project was developed to add a high-tech aesthetic to a webpage header. The animation is created using JavaScript and the HTML5 Canvas API, resulting in a captivating, interactive user experience."
-              ghLink="https://github.com/MohammadAbbas393/electricbg"
-            />
-          </Col>
-          <Col md={4} className="project-card">
-            <ProjectCard
               imgPath={memorygameImage}
               isBlog={false}
               title="Memory Card"
