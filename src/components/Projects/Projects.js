@@ -34,6 +34,15 @@ function Projects() {
               ghLink="https://github.com/MohammadAbbas393/Apscraper"
             />
           </Col>
+          <Col md={4} className= "projecy-card">
+            <ProjectCard
+                imgPath={require("../../Assets/Projects/Senti.png")}
+                isBlog={false}
+                title= " Sentiment Classification"
+                  description= "draft for now"
+                  ghlink="https://github.com/MohammadAbbas393/Sentiment-Classification-with-Naive-Bayes-Distillbert-and-Bert-main"
+            />
+          </Col>
           <Col md={4} className="project-card">
             <ProjectCard
               imgPath={memorygameImage}
