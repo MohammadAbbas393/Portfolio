@@ -39,7 +39,7 @@ function Projects() {
               imgPath={require("../../Assets/Projects/Senti.png")}
               isBlog={false}
               title= " Sentiment Classification"
-              description= "draft for now"
+              description= "This project, titled Sentiment Classification with Naive Bayes, DistilBERT, and BERT, explores and compares the performance of traditional and transformer-based models for sentiment analysis across multiple domains, including Amazon product reviews, movie reviews, and restaurant feedback. Developed by Mohammad Abbas, Ayman Khan, and Prashanth Babu, the repository implements and evaluates three models—Naive Bayes as a baseline, DistilBERT for efficient transformer-based classification, and BERT for deeper contextual understanding. Each model is trained and tested on distinct datasets to assess their effectiveness in binary sentiment classification, where scores above 3 are labeled as positive and below as negative. The accompanying report documents the methodology, results, and insights gained, offering a valuable comparison of classical and modern approaches to natural language processing."
               ghLink="https://github.com/MohammadAbbas393/Sentiment-Classification-with-Naive-Bayes-Distillbert-and-Bert-main"
             />
           </Col>
